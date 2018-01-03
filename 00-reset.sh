@@ -1,5 +1,7 @@
 #!/bin/bash
 cd ~
+rm -f .tmux.conf
 rm -f .vimrc 
-rm -r -f vimfiles
-rm -r -f dotfiles
+rm -f .vim -r
+rm -f vimfiles -r
+rm -f dotfiles -r
