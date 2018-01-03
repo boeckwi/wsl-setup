@@ -17,4 +17,4 @@ sudo wget https://raw.githubusercontent.com/sickill/vim-monokai/master/colors/mo
 
 
 # backup dir
-mkdir ~/tmp
+mkdir ~/.tmp
