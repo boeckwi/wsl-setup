@@ -15,3 +15,6 @@ sudo wget https://raw.githubusercontent.com/chriskempson/base16-vim/master/color
 sudo wget https://raw.githubusercontent.com/altercation/vim-colors-solarized/master/colors/solarized.vim
 sudo wget https://raw.githubusercontent.com/sickill/vim-monokai/master/colors/monokai.vim
 
+
+# backup dir
+mkdir ~/tmp
